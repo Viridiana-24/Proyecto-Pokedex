@@ -66,12 +66,12 @@ function App() {
           <div className="d-flex">
             <form onSubmit={handleSubmit}>
               <input
-                className="form-input"
+                className="button2"
                 onChange={handleSearch}
                 name="search"
                 value={search}
               />
-              <button classButton="button" type="submit">
+              <button className="button" type="submit">
                 Buscar
               </button>
             </form>
