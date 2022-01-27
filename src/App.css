@@ -43,7 +43,7 @@
   border: hidden;
   border-radius: 2px;
   font-size: 0.9rem;
-  background-color: #f4ca16;
+  
   color: #385c7a;
   font-weight: bold;
   padding: 2px 5px;
@@ -69,8 +69,6 @@
 .App-header {
   background-color: #559ad3;
   background-image: url("pikachu_1920x1080_xtrafondos.com.jpg");
-
-  
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -79,6 +77,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+
 
 .App-link {
   color: #61dafb;
