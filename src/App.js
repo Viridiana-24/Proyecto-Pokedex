@@ -60,7 +60,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <a className="alignCentral" href="www.github.com">Github</a>
+      <a className="alignCentral" href="https://github.com/Viridiana-24/Proyecto-Pokedex">Github</a>
  
         <div className="flex-container">
           <div className="d-flex">
